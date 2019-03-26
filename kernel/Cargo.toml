@@ -5,3 +5,4 @@ authors = ["Charlie Somerville <charlie@charlie.bz>"]
 edition = "2018"
 
 [dependencies]
+x86 = "0.15"
