@@ -1,0 +1,5 @@
+[package]
+name = "interface"
+version = "0.0.0"
+authors = ["Charlie Somerville <charlie@charlie.bz>"]
+edition = "2018"
