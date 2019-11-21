@@ -5,6 +5,7 @@ authors = ["Charlie Somerville <charlie@charlie.bz>"]
 edition = "2018"
 
 [dependencies]
+core = { package = "core-futures-tls", version = "0.1" }
 alloc_collections = { path = "../alloc_collections" }
 bitflags = "1.0"
 static_assertions = "0.3"
